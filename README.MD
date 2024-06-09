@@ -1,3 +1,4 @@
+![Dominando o Angular: Guia Completo para Iniciantes](DominandooAngularGuiaCompletoparaIniciantes.jpg)
 
 
 ## 💻 Tecnologias utilizadas no projeto
