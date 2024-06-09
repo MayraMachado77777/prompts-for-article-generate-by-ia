@@ -1,4 +1,4 @@
-![Dominando o Angular: Guia Completo para Iniciantes](src/img1.jpg)
+![Dominando o Angular: Guia Completo para Iniciantes](img1.jpg)
 
 
 ## 💻 Tecnologias utilizadas no projeto
